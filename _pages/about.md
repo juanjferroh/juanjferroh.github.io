@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-title: <strong>Juan José Ferro Hoyos 
+title: <strong>Juan Ferro 
 order: 1
 subtitle: Fourth year Phd student in economics at Universidad de los Andes. On the market for 2026. 
 
