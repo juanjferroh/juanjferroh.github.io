@@ -28,6 +28,7 @@ My work centers on applied microeconomics, using behavioral insights to understa
 {: .text-justify}
 
 My job market paper studies the effectiveness of fines at changing socially unwanted behavior, and wether this effect depends on the relative price of those fines. I answer this questions with data from Cameras that give speedint tickets in Bogotá, Colombia. Using the real speed limit as a source of exogeneous variation and a regression discontinuity design, I find that fines do change behavior but only when the price is not too high. 
+
 The second chapter of my dissertation studies the effect of institutional legitimacy on the efficacy of legal sanctions. I measure the effect of police scandals on the deterrent capacity of traffic tickets, using Google Trends data and traffic tickets and accidents in Bogotá. I find that drivers that get their first tickets just after a police scandal are 21% morle liekly to be involved in an accident. 
 The thrid chapter studies the effect of norm legitimacy on the deterrence of legal sanctions. I study this in the context of traffic infractions using the Speed Camera program implmeented in Bogotá on 2020 as a case study. I find that speed limits that are too far from what drivers consider legitimate are less effective at reducing accidents. 
 {: .text-justify}
