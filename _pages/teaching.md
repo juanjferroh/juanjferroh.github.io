@@ -16,7 +16,7 @@ nav_order: 6
 	 Department of Economics, Universidad de los Andes<br>
 	 Summer 2024, Summer 2025
 
-  - **Advanced microeconomics (masters and Phd course)**<br>
+- **Advanced microeconomics (masters and Phd course)**<br>
   Teaching assistant to Paula Jaramillo and José Guerra<br>
   Department of Economics, Universidad de los Andes<br>
 	 Fall 2024
