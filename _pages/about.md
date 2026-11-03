@@ -20,7 +20,6 @@ news: false # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-
 My work centers on applied microeconomics, using behavioral insights to understand public policy challenges. In particular, I study the effect of social norms and behavioral considerations on risky behaviors. I wrote my thesis under the guidance of [José Guerra](https://jguerraforero.wixsite.com/joseaguerra) and [Ignacio Sarmiento-Barbieri](https://ignaciomsarmiento.github.io/). 
 {: .text-justify}
 
