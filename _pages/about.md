@@ -11,7 +11,7 @@ profile:
   image_circular: true
 
   more_info: >
-    <p> Calle 19A No. 1-37 Este, Bloque W Of 722 </p>
+    <p> Calle 19A No. 1-37 Este, Bloque W Of 721 </p>
     <p> Universidad de los Andes</p>
     <p> Bogotá, Colombia </p>
 
