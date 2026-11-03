@@ -4,7 +4,7 @@ title: about
 permalink: /
 title: <strong>Juan Ferro 
 order: 1
-subtitle: Fourth year Phd student in economics at Universidad de los Andes. On the market for 2026. 
+subtitle: Phd in economics from Universidad de los Andes (Bogotá, Colombia). On the market for 2027. 
 
 profile:
   align: right
@@ -21,10 +21,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I am a Ph.D. candidate in Economics at the Universidad de los Andes (Bogotá, Colombia) under the guidance of [José Guerra](https://jguerraforero.wixsite.com/joseaguerra) and [Ignacio Sarmiento-Barbieri](https://ignaciomsarmiento.github.io/). 
-{: .text-justify}
-
-My work centers on applied microeconomics, using behavioral insights to understand public policy challenges. In particular, I study the effect of social norms and behavioral considerations on risky behaviors. 
+My work centers on applied microeconomics, using behavioral insights to understand public policy challenges. In particular, I study the effect of social norms and behavioral considerations on risky behaviors. I wrot my thesis under the guidance of [José Guerra](https://jguerraforero.wixsite.com/joseaguerra) and [Ignacio Sarmiento-Barbieri](https://ignaciomsarmiento.github.io/). 
 {: .text-justify}
 
 My job market paper studies the effectiveness of fines at changing socially unwanted behavior, and wether this effect depends on the relative price of those fines. I answer this questions with data from Cameras that give speedint tickets in Bogotá, Colombia. Using the real speed limit as a source of exogeneous variation and a regression discontinuity design, I find that fines do change behavior but only when the price is not too high. 
